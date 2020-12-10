@@ -1,0 +1,1 @@
+export const defineCurrentUserPosition = 'http://api.ipstack.com/5.100.192.59?access_key=58ff404c91d69ec1c86dd55c81b2ff86';
